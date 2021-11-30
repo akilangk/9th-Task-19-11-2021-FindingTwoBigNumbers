@@ -5,3 +5,4 @@
   2. List of Positive numbers
   3. List of both Positive and Negative numbers
 * Handled the exceptions for edge cases like InputMismatch exception.
+* UML Diagram, PlantUML file and the output screenshots for the above cases are attached.
